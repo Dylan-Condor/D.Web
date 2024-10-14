@@ -1,0 +1,15 @@
+h1 {
+    font-family: Arial, sans-serif; 
+    color: #248; 
+    text-align: center; 
+}
+
+h1:last-of-type {
+    margin-top: 40px; 
+    margin-bottom: 20px; 
+    color: #003366; 
+    font-size: 1.8em; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+    padding: 5px; /* Espacio */
+    border-bottom: 3px solid #003366; 
+}
